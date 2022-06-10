@@ -3,5 +3,5 @@
     <version>3.0.0.0</version>
     <url>https://raw.githubusercontent.com/tmhiep/winform_update/main/TestAutoUpdate.zip</url>
     <changelog>https://raw.githubusercontent.com/tmhiep/winform_update/main/change_log.txt</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
